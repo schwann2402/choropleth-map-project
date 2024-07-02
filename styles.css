@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+#tooltip {
+  visibility: hidden;
+  height: auto;
+  width: auto;
+}
